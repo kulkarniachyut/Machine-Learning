@@ -1,0 +1,193 @@
+ -------------  Part D  (1) -----------------
+Score for architecture = [50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.826702033789
+Score for architecture = [50, 50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.829585209912
+Score for architecture = [50, 50, 50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.831584205298
+Score for architecture = [50, 50, 50, 50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.81140198963
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.831584205298
+ -------------  Part D (2)  -----------------
+Score for architecture = [50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.833390997953
+Score for architecture = [50, 50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.828162839571
+Score for architecture = [50, 50, 50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.821089454892
+Score for architecture = [50, 50, 50, 50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.820551267087
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.833390997953
+--- 34.4613609314 seconds ---
+ -------------  Part E  -----------------
+Score for architecture = [50, 50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.837273675206
+Score for architecture = [50, 500, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.830161844122
+Score for architecture = [50, 500, 300, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.833506330786
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.839272677465
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.833160336054
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.839272677465
+--- 438.473086119 seconds ---
+ -------------  Part F  -----------------
+Score for architecture = [50, 50, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.801676084837
+Score for architecture = [50, 500, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.816053514295
+Score for architecture = [50, 500, 300, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.809556759243
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.805020566919
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 0.0 decay =  0.0 momentum = 0.0 actfn = relu: 0.785760966445
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.816053514295
+--- 437.256134033 seconds ---
+ -------------  Part G  -----------------
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-07 decay =  0.0 momentum = 0.0 actfn = relu: 0.795294662126
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.795294662126
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-07 decay =  0.0 momentum = 0.0 actfn = relu: 0.806289158514
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.806289158514
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-06 decay =  0.0 momentum = 0.0 actfn = relu: 0.800599697772
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.800599697772
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-06 decay =  0.0 momentum = 0.0 actfn = relu: 0.80344443158
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.80344443158
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-05 decay =  0.0 momentum = 0.0 actfn = relu: 0.799254222532
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.799254222532
+ -------------  Part H  -----------------
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-07 decay =  0.0 momentum = 0.0 actfn = relu: 0.784723021202
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.784723021202
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-07 decay =  0.0 momentum = 0.0 actfn = relu: 0.758428480163
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.758428480163
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-06 decay =  0.0 momentum = 0.0 actfn = relu: 0.801022571566
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.801022571566
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-06 decay =  0.0 momentum = 0.0 actfn = relu: 0.768039057197
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.768039057197
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-05 decay =  0.0 momentum = 0.0 actfn = relu: 0.796601695544
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.796601695544
+ -------------  Part I  -----------------
+Score for architecture = [50, 800, 500, 300, 2]  lambda = -65 decay =  1e-05 momentum = 0.0 actfn = relu: 0.284588475223
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.284588475223
+Score for architecture = [50, 800, 500, 300, 2]  lambda = -65 decay =  5e-05 momentum = 0.0 actfn = relu: 0.700111487966
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.700111487966
+Score for architecture = [50, 800, 500, 300, 2]  lambda = -65 decay =  0.0001 momentum = 0.0 actfn = relu: 0.668857886392
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.668857886392
+Score for architecture = [50, 800, 500, 300, 2]  lambda = -65 decay =  0.0003 momentum = 0.0 actfn = relu: 0.811017563547
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.811017563547
+Score for architecture = [50, 800, 500, 300, 2]  lambda = -65 decay =  0.0007 momentum = 0.0 actfn = relu: 0.744743015286
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.744743015286
+Score for architecture = [50, 800, 500, 300, 2]  lambda = -65 decay =  0.001 momentum = 0.0 actfn = relu: 0.798100954926
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.798100954926
+ -------------  Part J  -----------------
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 0.0 decay =  5e-05 momentum = 0.99 actfn = relu: 0.848806364474
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.848806364474
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 0.0 decay =  5e-05 momentum = 0.98 actfn = relu: 0.829431435749
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.829431435749
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 0.0 decay =  5e-05 momentum = 0.95 actfn = relu: 0.780148384765
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.780148384765
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 0.0 decay =  5e-05 momentum = 0.9 actfn = relu: 0.755276208992
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.755276208992
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 0.0 decay =  5e-05 momentum = 0.85 actfn = relu: 0.772613700509
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.772613700509
+ -------------  Part K  -----------------
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.748933226304
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.748933226304
+ -------------  Part L  -----------------
+Score for architecture = [50, 50, 2]  lambda = 1e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.849113905927
+Score for architecture = [50, 500, 2]  lambda = 1e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.850805366733
+Score for architecture = [50, 500, 300, 2]  lambda = 1e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.863645104965
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.869219237949
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 1e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.873640102514
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.873640102514
+Score for architecture = [50, 50, 2]  lambda = 1e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.848345058022
+Score for architecture = [50, 500, 2]  lambda = 1e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.849075459522
+Score for architecture = [50, 500, 300, 2]  lambda = 1e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.85564910051
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.861838307235
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 1e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.866951138351
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.866951138351
+Epoch 00015: early stopping
+Score for architecture = [50, 50, 2]  lambda = 1e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.823434432568
+Epoch 00098: early stopping
+Score for architecture = [50, 500, 2]  lambda = 1e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.845615656555
+Score for architecture = [50, 500, 300, 2]  lambda = 1e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.855418444993
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.859032019339
+Epoch 00007: early stopping
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 1e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.720409020122
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.859032019339
+Score for architecture = [50, 50, 2]  lambda = 5e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.847268670957
+Score for architecture = [50, 500, 2]  lambda = 5e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.850574713508
+Score for architecture = [50, 500, 300, 2]  lambda = 5e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.865797869931
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.760350596486
+Epoch 00007: early stopping
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 5e-07 decay =  1e-05 momentum = 0.99 actfn = relu: 0.735017107881
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.865797869931
+Score for architecture = [50, 50, 2]  lambda = 5e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.84242494127
+Epoch 00011: early stopping
+Score for architecture = [50, 500, 2]  lambda = 5e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.815553759147
+Score for architecture = [50, 500, 300, 2]  lambda = 5e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.855649105092
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.866912696528
+Epoch 00007: early stopping
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 5e-07 decay =  5e-05 momentum = 0.99 actfn = relu: 0.726828891529
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.866912696528
+Epoch 00009: early stopping
+Score for architecture = [50, 50, 2]  lambda = 5e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.808095960827
+Score for architecture = [50, 500, 2]  lambda = 5e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.847999083912
+Score for architecture = [50, 500, 300, 2]  lambda = 5e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.853573214605
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.858762922492
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 5e-07 decay =  0.0001 momentum = 0.99 actfn = relu: 0.734824889111
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.858762922492
+Score for architecture = [50, 50, 2]  lambda = 1e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.845039017763
+Score for architecture = [50, 500, 2]  lambda = 1e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.8535347682
+Score for architecture = [50, 500, 300, 2]  lambda = 1e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.862684038784
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.869565216642
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 1e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.875446891079
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.875446891079
+Score for architecture = [50, 50, 2]  lambda = 1e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.845807862883
+Score for architecture = [50, 500, 2]  lambda = 1e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.848960138637
+Score for architecture = [50, 500, 300, 2]  lambda = 1e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.858724492126
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.864875257029
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 1e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.744243266691
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.864875257029
+Epoch 00019: early stopping
+Score for architecture = [50, 50, 2]  lambda = 1e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.823934185916
+Epoch 00010: early stopping
+Score for architecture = [50, 500, 2]  lambda = 1e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.812516823101
+Epoch 00094: early stopping
+Score for architecture = [50, 500, 300, 2]  lambda = 1e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.849805865111
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.861377007658
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 1e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.86372198861
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.86372198861
+Score for architecture = [50, 50, 2]  lambda = 5e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.851920188747
+Score for architecture = [50, 500, 2]  lambda = 5e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.8501902925
+Score for architecture = [50, 500, 300, 2]  lambda = 5e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.863875753115
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.865990083626
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 5e-06 decay =  1e-05 momentum = 0.99 actfn = relu: 0.74105255419
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.865990083626
+Score for architecture = [50, 50, 2]  lambda = 5e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.848614157653
+Score for architecture = [50, 500, 2]  lambda = 5e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.848767922651
+Score for architecture = [50, 500, 300, 2]  lambda = 5e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.857455891366
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.865567216213
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 5e-06 decay =  5e-05 momentum = 0.99 actfn = relu: 0.869642100287
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.869642100287
+Score for architecture = [50, 50, 2]  lambda = 5e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.834198283589
+Score for architecture = [50, 500, 2]  lambda = 5e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.847806865635
+Epoch 00009: early stopping
+Score for architecture = [50, 500, 300, 2]  lambda = 5e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.797485868915
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 5e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.860838817562
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 5e-06 decay =  0.0001 momentum = 0.99 actfn = relu: 0.761926729534
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.860838817562
+Score for architecture = [50, 50, 2]  lambda = 1e-05 decay =  1e-05 momentum = 0.99 actfn = relu: 0.848729485412
+Score for architecture = [50, 500, 2]  lambda = 1e-05 decay =  1e-05 momentum = 0.99 actfn = relu: 0.850805371316
+Score for architecture = [50, 500, 300, 2]  lambda = 1e-05 decay =  1e-05 momentum = 0.99 actfn = relu: 0.865105907471
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-05 decay =  1e-05 momentum = 0.99 actfn = relu: 0.867835311722
+Epoch 00008: early stopping
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 1e-05 decay =  1e-05 momentum = 0.99 actfn = relu: 0.734440469088
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.867835311722
+Score for architecture = [50, 50, 2]  lambda = 1e-05 decay =  5e-05 momentum = 0.99 actfn = relu: 0.84684581091
+Score for architecture = [50, 500, 2]  lambda = 1e-05 decay =  5e-05 momentum = 0.99 actfn = relu: 0.846845804036
+Epoch 00008: early stopping
+Score for architecture = [50, 500, 300, 2]  lambda = 1e-05 decay =  5e-05 momentum = 0.99 actfn = relu: 0.785837845508
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-05 decay =  5e-05 momentum = 0.99 actfn = relu: 0.863414440283
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 1e-05 decay =  5e-05 momentum = 0.99 actfn = relu: 0.867643100319
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.867643100319
+Score for architecture = [50, 50, 2]  lambda = 1e-05 decay =  0.0001 momentum = 0.99 actfn = relu: 0.843808865699
+Epoch 00009: early stopping
+Score for architecture = [50, 500, 2]  lambda = 1e-05 decay =  0.0001 momentum = 0.99 actfn = relu: 0.813324105954
+Score for architecture = [50, 500, 300, 2]  lambda = 1e-05 decay =  0.0001 momentum = 0.99 actfn = relu: 0.855110908122
+Score for architecture = [50, 800, 500, 300, 2]  lambda = 1e-05 decay =  0.0001 momentum = 0.99 actfn = relu: 0.859916202368
+Score for architecture = [50, 800, 800, 500, 300, 2]  lambda = 1e-05 decay =  0.0001 momentum = 0.99 actfn = relu: 0.865797869931
+Best Config: architecture = {0}, lambda = {1}, decay = {2}, momentum = {3}, actfn = relu, best_acc = 0.865797869931
+--- 21805.1407912 seconds ---
